@@ -5,7 +5,7 @@
 An AI-powered product intelligence platform that transforms customer feedback and competitor reports into actionable business insights. The application leverages Large Language Models (LLMs) to analyze customer sentiment, identify product opportunities, benchmark competitors, and generate executive recommendations through interactive dashboards.
 
 ---
-**Note**: This repository contains a demonstration version of an AI-powered product intelligence platform. All sample data has been anonymized or replaced with synthetic examples. No proprietary or confidential company information is included.
+**Note**: This repository contains a demonstration version of an AI-powered product intelligence platform. All sample data has been anonymized or replaced with synthetic examples. No proprietary or confidential company information is on included.
 
 # Overview
 
@@ -85,6 +85,7 @@ Example questions include:
 ### Programming
 
 - Python
+- JavaScript
 
 ### Data Analysis
 
@@ -95,11 +96,11 @@ Example questions include:
 
 - Plotly
 - Streamlit
+- React/Vite App (JavaScript)
 
 ### Artificial Intelligence
 
-- Groq API
-- Llama 3.1 Large Language Model
+- OpenAI API
 
 ### Business Intelligence
 
